@@ -46,17 +46,9 @@
 
 <div align="center">
 
-<a href="https://github.com/Arman-dev-1">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arman-dev-1&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&theme=dark&bg_color=0d1117&icon_color=888888&text_color=cccccc&ring_color=444444" height="160"/>
-</a>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arman-dev-1&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&theme=dark&bg_color=0d1117&icon_color=888888&text_color=cccccc&ring_color=444444" height="160"/>
 &nbsp;&nbsp;
-<a href="https://github.com/Arman-dev-1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arman-dev-1&layout=compact&langs_count=6&hide_border=true&theme=dark&bg_color=0d1117&text_color=cccccc&title_color=cccccc" height="160"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arman-dev-1&theme=github-compact&hide_border=true&bg_color=0d1117&color=888888&line=555555&point=aaaaaa&area=true&area_color=333333" width="100%"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=Arman-dev-1&layout=compact&langs_count=6&hide_border=true&theme=dark&bg_color=0d1117&text_color=cccccc&title_color=cccccc" height="160"/>
 
 </div>
 
