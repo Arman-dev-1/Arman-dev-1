@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=Arman&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20India&descAlignY=58&descSize=14&descColor=888888" width="100%"/>
-
-<br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=888888&center=true&vCenter=true&multiline=true&width=600&height=60&lines=building+collaboraone.com+%E2%80%94+AI+project+management+for+agencies;next.js+%7C+typescript+%7C+convex+%7C+two-llm+router+architecture)](https://collaboraone.com)
 
 </div>
@@ -50,9 +46,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arman-dev-1&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&theme=dark&bg_color=0d1117&icon_color=888888&text_color=cccccc&ring_color=444444" height="160"/>
+<a href="https://github.com/Arman-dev-1">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arman-dev-1&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&theme=dark&bg_color=0d1117&icon_color=888888&text_color=cccccc&ring_color=444444" height="160"/>
+</a>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arman-dev-1&layout=compact&langs_count=6&hide_border=true&theme=dark&bg_color=0d1117&text_color=cccccc&title_color=cccccc" height="160"/>
+<a href="https://github.com/Arman-dev-1">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arman-dev-1&layout=compact&langs_count=6&hide_border=true&theme=dark&bg_color=0d1117&text_color=cccccc&title_color=cccccc" height="160"/>
+</a>
 
 <br/><br/>
 
@@ -65,7 +65,7 @@
 ### streak
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Arman-dev-1&theme=dark&hide_border=true&background=0d1117&stroke=333333&ring=666666&fire=888888&currStreakLabel=888888&sideLabels=666666&dates=555555" />
+<img src="https://streak-stats.demolab.com?user=Arman-dev-1&theme=dark&hide_border=true&background=0d1117&stroke=333333&ring=666666&fire=888888&currStreakLabel=888888&sideLabels=666666&dates=555555"/>
 </div>
 
 ---
@@ -73,7 +73,5 @@
 <div align="center">
 
 `collaboraone.com` &nbsp;·&nbsp; building in public &nbsp;·&nbsp; India
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
 
 </div>
