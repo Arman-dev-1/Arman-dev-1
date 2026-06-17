@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e60ce,100:64dfdf&height=190&section=header&text=Arman&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=founder%20%26%20engineer%20%C2%B7%20building%20in%20public%20from%20india&descAlignY=56&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e60ce,100:64dfdf&height=170&section=header&text=Arman&fontSize=58&fontColor=ffffff&fontAlignY=42"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=64DFDF&center=true&vCenter=true&multiline=true&width=640&height=90&lines=building+collaboraone.com+%F0%9F%9A%80;AI+project+management+for+agencies+%26+freelancers;next.js+%7C+typescript+%7C+convex+%7C+two-llm+router)](https://collaboraone.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=64DFDF&center=true&vCenter=true&multiline=true&width=640&height=90&lines=building+collaboraone.com;AI+project+management+for+agencies+%26+freelancers;shipping+web+products+%26+building+in+public)](https://collaboraone.com)
 
 <a href="https://collaboraone.com"><img src="https://img.shields.io/badge/collaboraone.com-5e60ce?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -13,60 +13,54 @@
 
 ---
 
-### 👋 about
+### <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/1f44b.png" width="22" align="center"/> about
 
 ```ts
 const arman = {
   role: "founder & full-stack engineer",
-  building: "collaboraone — AI project management for agencies",
-  stack: ["next.js", "typescript", "convex", "two-llm router"],
+  building: "collaboraone, AI project management for agencies",
   open_source: "contributor @ Corsair Dev",
-  based_in: "🇮🇳 india",
+  based_in: "india",
   vibe: "building in public"
 };
 ```
 
 ---
 
-### 🚀 currently building — collaboraone
+### <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/1f680.png" width="22" align="center"/> currently building, collaboraone
 
 > **AI project management for agencies & freelancers.** Task automation, smart routing, and an
-> LLM layer that turns scattered briefs into structured, trackable work — powered by a custom
-> two-LLM router that picks the right model per task.
+> intelligence layer that turns scattered briefs into structured, trackable work.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
-![Two-LLM Router](https://img.shields.io/badge/two--llm%20router-5e60ce?style=flat-square)
-&nbsp;·&nbsp; **[collaboraone.com →](https://collaboraone.com)**
+**[collaboraone.com](https://collaboraone.com)**
 
 ---
 
-### 🧩 open source & client work
+### <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/1f9e9.png" width="22" align="center"/> open source & client work
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**🛠️ Corsair Dev**
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/1f6e0.png" width="18" align="center"/> **Corsair Dev**
 
-open-source contributor — shipping features & fixes to the project.
+open-source contributor, shipping features & fixes to the project.
 
 ![Open Source](https://img.shields.io/badge/contributor-64dfdf?style=flat-square&logo=github&logoColor=black)
 
 </td>
 <td width="33%" valign="top">
 
-**🐾 MyPetFit**
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/1f43e.png" width="18" align="center"/> **MyPetFit**
 
-client project — full build & delivery.
+client project, full build & delivery.
 
 <a href="https://mypetfit.in"><img src="https://img.shields.io/badge/mypetfit.in-5e60ce?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 
 </td>
 <td width="33%" valign="top">
 
-**📦 templates**
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/1f4e6.png" width="18" align="center"/> **templates**
 
 production-grade landing page templates, built & deployed.
 
@@ -78,7 +72,7 @@ production-grade landing page templates, built & deployed.
 
 ---
 
-### 🎨 template showcase
+### <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/1f3a8.png" width="22" align="center"/> template showcase
 
 <table>
 <tr>
@@ -86,7 +80,7 @@ production-grade landing page templates, built & deployed.
 <a href="https://eclipseui.vercel.app/">
 <img src="https://image.thum.io/get/width/600/crop/900/https://eclipseui.vercel.app/" width="100%"/>
 </a>
-<h4>Eclipse UI — “MOON”</h4>
+<h4>Eclipse UI, "MOON"</h4>
 dark, motion-driven creative agency landing page. animated marquees, selected-work grid, team section.
 <br/><br/>
 <a href="https://eclipseui.vercel.app/"><img src="https://img.shields.io/badge/live%20demo-5e60ce?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -95,7 +89,7 @@ dark, motion-driven creative agency landing page. animated marquees, selected-wo
 <a href="https://verdant-six-alpha.vercel.app/">
 <img src="https://image.thum.io/get/width/600/crop/900/https://verdant-six-alpha.vercel.app/" width="100%"/>
 </a>
-<h4>Verdant — Architecture & Design</h4>
+<h4>Verdant, Architecture & Design</h4>
 image-rich architecture studio template. services, project gallery, testimonials, FAQ & quote form.
 <br/><br/>
 <a href="https://verdant-six-alpha.vercel.app/"><img src="https://img.shields.io/badge/live%20demo-64dfdf?style=for-the-badge&logo=vercel&logoColor=black"/></a>
@@ -105,7 +99,7 @@ image-rich architecture studio template. services, project gallery, testimonials
 
 ---
 
-### 🧰 stack
+### <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/1f9f0.png" width="22" align="center"/> stack
 
 **languages & frameworks**
 
@@ -137,7 +131,7 @@ image-rich architecture studio template. services, project gallery, testimonials
 
 ---
 
-### 📊 github
+### <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/1f4ca.png" width="22" align="center"/> github
 
 <div align="center">
 
@@ -156,13 +150,13 @@ image-rich architecture studio template. services, project gallery, testimonials
 ---
 
 <details>
-<summary>✨ <b>what i'm exploring right now</b> (click to expand)</summary>
+<summary><img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/2728.png" width="18" align="center"/> <b>what i'm exploring right now</b> (click to expand)</summary>
 <br/>
 
-- 🧠 multi-model routing & cost-aware LLM orchestration
-- ⚡ realtime collaborative UX with Convex
-- 🎯 lead-gen & go-to-market automation for collaboraone
-- 🏗️ reusable, production-grade UI template systems
+- realtime collaborative product UX
+- go-to-market & lead-gen automation for collaboraone
+- reusable, production-grade UI template systems
+- ai-native developer workflows
 
 </details>
 
