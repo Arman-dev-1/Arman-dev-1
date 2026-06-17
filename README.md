@@ -1,6 +1,34 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=888888&center=true&vCenter=true&multiline=true&width=600&height=60&lines=building+collaboraone.com+%E2%80%94+AI+project+management+for+agencies;next.js+%7C+typescript+%7C+convex+%7C+two-llm+router+architecture)](https://collaboraone.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&multiline=true&width=620&height=80&lines=building+collaboraone.com;AI+project+management+for+agencies+%26+freelancers;next.js+%7C+typescript+%7C+convex+%7C+two-llm+router+architecture)](https://collaboraone.com)
+
+<a href="https://collaboraone.com"><img src="https://img.shields.io/badge/website-collaboraone.com-888888?style=flat-square&labelColor=0d1117"/></a>&nbsp;
+<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/linkedin-888888?style=flat-square&logo=linkedin&logoColor=cccccc&labelColor=0d1117"/></a>&nbsp;
+<a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/twitter%2Fx-888888?style=flat-square&logo=x&logoColor=cccccc&labelColor=0d1117"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Arman-dev-1&style=flat-square&color=888888&label=profile+views&labelColor=0d1117"/>
+
+</div>
+
+---
+
+### about
+
+```text
+founder & engineer · building in public from india
+shipping a two-llm router that picks the right model per task
+freelance + agency tooling · full-stack · ai-native workflows
+```
+
+---
+
+### currently building — collaboraone
+
+<div align="left">
+
+> **AI project management for agencies & freelancers** — task automation, smart routing,
+> and an LLM layer that turns scattered briefs into structured, trackable work.
+
+`next.js` · `typescript` · `convex` · `two-llm router architecture` &nbsp;·&nbsp; [collaboraone.com →](https://collaboraone.com)
 
 </div>
 
@@ -32,7 +60,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="28"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="28"/>
 
-**AI tools I ship with**
+**ai tools i ship with**
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-cc785c?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
@@ -52,18 +80,22 @@
 
 </div>
 
----
+<div align="center">
 
-### streak
+<img src="https://streak-stats.demolab.com?user=Arman-dev-1&theme=dark&hide_border=true&background=0d1117&stroke=333333&ring=666666&fire=888888&currStreakLabel=888888&sideLabels=666666&dates=555555"/>
+
+</div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Arman-dev-1&theme=dark&hide_border=true&background=0d1117&stroke=333333&ring=666666&fire=888888&currStreakLabel=888888&sideLabels=666666&dates=555555"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arman-dev-1&bg_color=0d1117&color=cccccc&line=888888&point=ffffff&area_color=222222&area=true&hide_border=true&custom_title=contribution+activity" width="95%"/>
+
 </div>
 
 ---
 
 <div align="center">
 
-`collaboraone.com` &nbsp;·&nbsp; building in public &nbsp;·&nbsp; India
+`collaboraone.com` &nbsp;·&nbsp; building in public &nbsp;·&nbsp; india
 
 </div>
